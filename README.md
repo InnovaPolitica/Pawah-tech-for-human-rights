@@ -1,4 +1,4 @@
-# Hello, this is the README file of Pawah!.
+# Hello, this is the README file of Pawah!
 
 Pawah! is a tool to record reliable and auditable proofs of human rights violations without being detected, so they can can be used afterwards in legal processes, journalistic investigations and public denunciation. 
 
