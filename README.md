@@ -10,7 +10,7 @@ It is great that you are interested in our project!
 
 We are an organization committed with the defense of human rights and free speech in Latin America. We want to strengthen democracy in Latin America by empowering emerging leaders and promoting spaces of free debate. More about us can be found [here](http://asuntosdelsur.org/)
 
-![alt text](https://uploads-ssl.webflow.com/574610ab1330a52216269406/574610ab1330a52216269471_LOGO%20ADS.jpg =250x)
+![alt text](https://uploads-ssl.webflow.com/574610ab1330a52216269406/574610ab1330a52216269471_LOGO%20ADS.jpg | width=100)
 
 ## What is Pawah?
 
