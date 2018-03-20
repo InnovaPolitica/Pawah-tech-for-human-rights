@@ -1,3 +1,5 @@
+# CODE OF CONDUCT FOR CONTRIBUTING IN PAWAH!
+
 This code of conduct applies to all of people who want to contribute to the project PAWAH! regardless if it is in the Github repository, the open gdrive file, a wiki, an online or offline meeting, or any other space.
 
 Asuntos del Sur is an organization that promotes inclusion, egalitarian societies and broad participation. In that way, we encourage deliberation, free speech, respect for the others opinions and open collaboration. 
