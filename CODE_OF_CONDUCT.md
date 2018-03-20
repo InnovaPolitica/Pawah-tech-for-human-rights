@@ -1,38 +1,26 @@
-Use the Mozilla community participation guidelines below, or write you own Code of Coduct [using this exercise](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
+This code of conduct applies to all of people who want to contribute to the project PAWAH! regardless if it is in the Github repository, the open gdrive file, a wiki, an online or offline meeting, or any other space.
 
----
+Asuntos del Sur is an organization that promotes inclusion, egalitarian societies and broad participation. In that way, we encourage deliberation, free speech, respect for the others opinions and open collaboration. 
 
-<!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
-# Participation Guidelines
+Specific guidelines: 
 
-This project, participating in the Mozilla Festival, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, space wranglers, staff, volunteers, vendors, and anyone else involved in making the MozFest possible.
+Be respectful with others. Please, do not insult others that do not share the same opinion, don’t be disrespectful of another’s skills or work and do not interrupt while others are speaking.
+Be empathetic, try to put yourself in other people’s shoes. It is important to try to understand others positions and situations. Please, try to bear in mind other people's feelings and necessities.
+Be collaborative, share with others. We can achieve better results if we work together. Being collaborative is the step to build communities.
+Be inclusive. Diversity is key for innovation. We do not exclude no one and we encourage the participation of those that normally are excluded. 
+Be patient. Not all of us are incredible coders, encryption geniuses or super computers. Please, be patient with others that want to understand you but need more explanations or answers. 
+Be inquisitive.  You may not know everything, but you are encouraged to ask questions and clarify your doubts.  It does not only helps you get more involved with the project development but it early avoids many problems later.
+Avoid using jargon that only extraterrestrial beings understand. Sure, we all love to use complex words or very abstract terminology to show that we are very intelligent. Nevertheless, we prefer being simpler so we all can understand easily. 
+Harassment, racism or any gender insults will result in expelled of the community. We can't be more clear, do not do those stuff. 
 
-## How to treat each other
+If you broke any of these precious rules, we will have to make you a warning. After three warnings, we will ask you to leave the project and we will be forbid to participate in anyway in this project. When evidence of harassment, racism or any kind of violence against the people in this project, you will be immediately excluded from the project and we will document the reason why you have been taking that decision. 
 
-* Be respectful and welcoming
-* Try to understand different perspectives
-* Do not threaten violence
-* Empower others
-* Strive for excellence
-* Don’t expect to agree with every decision
+## Diversity Statement:
+We encourage participation regardless of age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. In fact, we explicitly honor diversity and we are therefore committed to providing a harassment-free experience for everyone.
 
-## Inclusion and Diversity
+## Language:
+We welcome people fluent in all languages, even klingon, nevertheless we understand english is the most spoken language. So, please, try to communicate with other in english so everybody can understand you more easily. 
 
-The Mozilla Project welcomes and encourages participation by everyone. It doesn’t matter how you identify yourself or how others perceive you: we welcome you.
+If you have any suggestions to improve this Code of conduct, please feel free to make any suggestions. If you think that someone has break any of these guidelines, write to cristian.leon@asuntosdelsur.org or antonella.perini@asuntosdelsur.org. All requests will be handled with discretion.
 
-We welcome contributions from everyone as long as they interact constructively with our community, including, but not limited to people of varied age, culture, ethnicity, gender, gender-identity, language, race, sexual orientation, geographical location and religious views.
-
-Mozilla-based activities should be inclusive and should support such diversity.
-
-## Raising Issues at #mozsprint
-
-If you believe you‘re experiencing practices at #mozsprint which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Zannah Marsh.
-
-#mozsprint organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
-
-Email: askopenleadership@mozillafoundation.org 
-
-## Working in the Open
-
-Because working open is one of our core values, #mozsprint program planning is done in the open on Github (check out our repo [here](https://github.com/mozilla/global-sprint)). We hope participants will benefit from this culture of transparency and collaboration during the Festival, and will continue to work with an open ethos in their projects after #mozsprint. Learn more about [how we work open at Mozilla](https://wiki.mozilla.org/Working_open).
 <!--- END MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
