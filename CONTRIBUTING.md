@@ -1,4 +1,4 @@
-## How to contribute to Pawah! 
+# How to contribute to Pawah! 
 Hi there, we are very pleased that you want to contribute to Pawah! Thank you so much:tada:! 
 
 For us, any contribution is highly valuable, no matter if it is 400-lines-of-code or just a small piece of advice. 
@@ -11,24 +11,26 @@ We need people that can code, know about informatic forensics, encryption and ca
 * [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
 
-# Our vision
+## Our vision
 
 We are working aside human right defenders to build a tool that can capture reliable and authentic proofs of human rights violations and strengthen plausible denial to help activists in transitional justice. 
 
-# Why we need contribution
+## Why we need contribution
 
 Our tool is designed to help a broad community. Therefore, we need the contribution of everybody to make it stronger. Either if you are a potential user, a coder, a crypto enthusiast, a lawyer, a journalist, a citizen, or just someone that felt curious about the project, your help will be important for us. 
 
 We are an open organization committed with the defense of human rights and free speech in Latin America. If you want to know more about us, read the README file or visit us in our webpage www.asuntosdelsur.org. 
 
-# Our Code of Conduct
+## Our Code of Conduct
 
 Oh yeah, we have one. This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
-# What is ahead
+## What is ahead
 
 We have created a very detailed RoadMap so you can know where we are at. Actually, it is possible we got lost, that is why we need your help to get there. 
 Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
+
+## How to contribute
 
 > Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
@@ -51,5 +53,5 @@ Most projects invite all contributors to report bugs, so "debugging" or fixing p
 Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
 
 
-# If you are in distreess and need help in relation to digital security and human rights protection? Please, write to us immediately. 
+## If you are in distreess and need help in relation to digital security and human rights protection? Please, write to us immediately. 
 
