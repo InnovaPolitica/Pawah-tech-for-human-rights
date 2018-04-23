@@ -1,3 +1,5 @@
+English version
+
 # Hello, this is the README file of Pawah!
 
 Pawah! is a tool to record reliable and auditable proofs of human rights violations without being detected, so they can be used afterwards in legal processes, journalistic investigations and public denunciation. 
@@ -53,3 +55,58 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/)! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Versión en español
+
+# Hola, este es el archivo LEAME de Pawah!
+
+Pawah! es una herramienta para registrar pruebas autiables y feasibles de violaciones a los derechos humanos con tu smartphone sin ser detectado, de modo que puedas usar la "negación plausible" en caso de ser detenido, y para que puedas usar después estas pruebas en juicios legales, investigación periodística o como denuncia pública. 
+
+Nos parece muy bueno que estes interesado en el proyecto! 
+
+![alt text](https://media.giphy.com/media/609o8uNjasiJO/giphy.gif)
+
+## Quiénes somos?
+
+Somos una organización comprometida con la defensa de los derechos humanos y la libertad de expresión en América Latina. Buscamos fortalecer la democracia en América Latina a través del empoderamiento de líderes emergentes y la promoción del debate público. Entérate más de nuestra organización [aquí](http://asuntosdelsur.org/)
+
+![alt text](https://uploads-ssl.webflow.com/574610ab1330a52216269406/574610ab1330a5221626946b_ADS-logo.jpg)
+
+## Qué es Pawah?
+
+El nombre Pawah!, es de hecho un juego de palabras entre el nombre de un tipo de aguacate (Pagua) y la palabra en inglés: "Poder" (🥑 + :fist:). Pero no, no estamos creando un aguacate poderoso, aunque la idea resulte muy buena.  
+
+## Por qué Pawah? 
+
+Las protestas sociales en América Latina son una parte importante de la expresión política. Uno de los estudios más grandes sobre protestas sociales realizado en América Latina (PNUD, 2013), contabilizó más de 4.750 protestas callejeras en 17 países de la región por el periodo de un año. Estas protestas están cambiando, llegando a largas escalas y haciendo un uso intensivo de las tecnologías digitales (Bianchi et al., 2017). No obstante, gobiernos, organizaciones criminales y otros grupos de interés se han tornado más agresivos y violentos contra la libertad de expresión y aquellas opiniones que puedan afectarles, al punto de criminalizar la protesta.  
+De acuerdo a reporte por el Centro de estudios Legales y Sociales, gobiernos están introduciendo normas legales bastante coercitivas en contra de la protesta social y la libertad de expresión. Los resultados han sido lamentables. En Perú, entre 2010 y 2015, al menos 80 personas han sido asesinadas durante conflictos. En México, en los últimos 5 años, centenas de activistas (periodistas, estudiantes y políticos) han desaparecido o fueron asesinados por carteles de narcos o por el mismo gobierno, el caso de Ayotznapa es quizás el más conocido. En Colombia, el escuadrón anti-motinos es responsable por 3.950 agresiones entre 2002 y 2014, incluyendo casos de acoso sexual.  
+
+Los celulares, desde esa perspectiva, se han convertido en herramientas poderosas para el activismo pues pueden realizar cobertura en vivo de eventos que estén sucediendo. No obstante, las fuerzas de seguridad y perpetradores maliciosos están al tanto de esto. Por esta razón, estas fuerzas no dudaran en destruir o confiscar estos dispositivos, corromperlos o peor, intimidar violentamente a testigos y defensores de los derechos humanos. Por esta razón, es necesario tener herramientas que puedan reforzar la negación plausible al usar estos dispositivos, y al mismo tiempo, guardar los documentos de manera segura. 
+
+## Cómo Pawah! puede aportar a esta situación tan díficil? 
+
+Pensamos que Pawah! puede convertirse en una poderosa herramienta para defender los derechos humanos y puede contribuir en acciones para empoderar a víctimas de los abusos a los derechos humanos a través de la justicia transicional. Proponemos esto a través de dos caminos: 
+
+a- Pawah! es una herramienta que puede ayudar a registrar abusos a derechos humanos en situaciones de sobre exposición. Los teléfonos móviles son ya una poderosa herramienta para registrar eventos importantes. No obstante, fuerzas de segurdad y perpetradores mal intencionados están al tanto de esto. Por esa razón, en lugar  de seguir procesos regulares, ellos no dudaran en destruir los dispositivos y amenazar a quienes los usen para registran información. En ese sentido, Pawah! tiene dos medidas: 1. tiene un fake-front end que ayuda a evitar a "delatar al testigo". 2. Encripta y esconde los archivos dentro del dispositivo.  
+ 
+b- Pawah! puede guardar de manera auténtica y editable pruebas que pueden ser usadas después para investigaciones legales, periodísticas y para la denuncia pública. Incluso si los testigos o las víctimas logran obtener los dispositivos de las víctimas, los archivos se encripta y guardarán en un servidore seguro. Así también, la feasibilidad estára dadad y se podrá demostrar que los archivos no han sido modificados a través del uso de blochain.  
+
+## Cómo funciona? 
+
+Esta herramienta usa un fake-front end para grabar fotografías, audio o video. Los archivos son guardados en el dispositivo de manera segura. La única manera de acceder a ellos será a través de un passphrase. Si el dispositivo está conectado a intenet, Pawah! enviara los archivos encriptados con una segunda capa de encriptación a un servidor seguro. Agregaremos un hashing a los archivos para evitar que sean modificados y así asegurar que los mismos archivos que fueron grabados durante el día del evento, sea el vide que se use   This tool uses a fake-front end to record pictures, audio or video and in that way it strengthens plausible deniability. 
+
+## Fanástico, cCómo puedo aportar?
+
+Necesitamos voluntarios para finalizar Pawah!. Necesitamos criptografos, desarrolladores, diseñadores, abogados y activistas que quieran probar la herramienta y fortalecerla. Si estás interesado en Pawah! por favor envía un correo a  cristian.leon@asuntosdelsur.org o a info@asuntosdelsur.org. Puedes ver nuestra guía para Contribuciones [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Lineamientos de participación
+
+Este proyecto tiene un [Código de conducta](CODE_OF_CONDUCT.md). Al participar, esperamos que como participante te guíes por ese código. Por favor, cualquier comportamiento inacceptable puede ser reportado a  cristian.leon@asuntosdelsur.org.
+
+## MozSprint
+
+Úneté al [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/)! Reuniremos a personas de diferentes lugares alrededor del mundo y haremos colaboraciones entre distintos proyectos [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
+
+![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
+
