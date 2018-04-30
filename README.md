@@ -46,6 +46,8 @@ We need volunteers to finish Pawah!. We need cryptographers, coders, designers, 
 
 Thanks for your interest in contributing to Pawah! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
+You can communicate with us through our email accounts: cristian.leon@asuntosdelsur.org and info@asuntosdelsur.org. You can subscribe to our telegram channel: @pawahtool
+
 ## Participation Guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md) and the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold to them. Please report unacceptable behavior to cristian.leon@asuntosdelsur.org.
@@ -96,9 +98,11 @@ b- Pawah! puede guardar de manera auténtica y editable pruebas que pueden ser u
 
 Esta herramienta usa un fake-front end para grabar fotografías, audio o video. Los archivos son guardados en el dispositivo de manera segura. La única manera de acceder a ellos será a través de un passphrase. Si el dispositivo está conectado a intenet, Pawah! enviara los archivos encriptados con una segunda capa de encriptación a un servidor seguro. Agregaremos un hashing a los archivos para evitar que sean modificados y así asegurar que los mismos archivos que fueron grabados durante el día del evento, sea el vide que se use   This tool uses a fake-front end to record pictures, audio or video and in that way it strengthens plausible deniability. 
 
-## Fanástico, cCómo puedo aportar?
+## Fanástico, ¿Cómo puedo aportar?
 
 Necesitamos voluntarios para finalizar Pawah!. Necesitamos criptografos, desarrolladores, diseñadores, abogados y activistas que quieran probar la herramienta y fortalecerla. Si estás interesado en Pawah! por favor envía un correo a  cristian.leon@asuntosdelsur.org o a info@asuntosdelsur.org. Puedes ver nuestra guía para Contribuciones [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Puedes comunicarte con nosotros a nuestras cuentas de correo: cristian.leon@asuntosdelsur.org and info@asuntosdelsur.org. También puedes suscribirte a nuestra canal de Telegram: @pawahtool
 
 ## Lineamientos de participación
 
