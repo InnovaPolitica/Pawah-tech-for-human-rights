@@ -50,3 +50,4 @@ It is always a good time to get in touch with us. Please, feel free to write to 
 
 The best way to communicate with us is through email: cristian.leon@asuntosdelsur.org or info@asuntosdelsur.org
 
+You can also subscribe to our telegram channel: @pawahtool
