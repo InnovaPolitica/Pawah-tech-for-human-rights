@@ -5,11 +5,11 @@ For us, any contribution is highly valuable, no matter if it is 400-lines-of-cod
 
 We need people that can code, know about informatic forensics, encryption and can help with the User Experience. 
 
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
+* [Our vision](##Our-vision)
+* [Why we need contribution](##Why-we-need-contribution)
+* [Our Code of Conduct](##Our-Code-of-Conduct)
+* [What is ahead](##What-is-ahead)
+* [Communication channels](##communication-channels)
 
 ## Our vision
 
@@ -23,7 +23,7 @@ We are an open organization committed with the defense of human rights and free 
 
 ## Our Code of Conduct
 
-Oh yeah, we have one. This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+Oh yeah, we have one. This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to cristian.leon@asuntosdelsur.org 
 
 ## What is ahead
 
@@ -32,7 +32,7 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 ## How to contribute
 
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+Please, if you want to contribute, you can follow the next steps:
  
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
@@ -40,18 +40,13 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-## How to report bugs
-
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
-
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+It is always a good time to get in touch with us. Please, feel free to write to us if something comes up:
+- You want to use Pawah!
+- You want to contribute to Pawah!
+- You want to talk about Pawah!
+- You are in distreess and need help in relation to digital security and human rights protection. Please, write to us immediately. 
 
-
-## If you are in distreess and need help in relation to digital security and human rights protection? Please, write to us immediately. 
+The best way to communicate with us is through email: cristian.leon@asuntosdelsur.org or info@asuntosdelsur.org
 
