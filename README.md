@@ -102,7 +102,7 @@ Necesitamos voluntarios para finalizar Pawah!. Necesitamos criptografos, desarro
 
 ## Lineamientos de participación
 
-Este proyecto tiene un [Código de conducta](CODE_OF_CONDUCT.md). Al participar, esperamos que como participante te guíes por ese código. Por favor, cualquier comportamiento inacceptable puede ser reportado a  cristian.leon@asuntosdelsur.org.
+Este proyecto tiene un [Código de conducta](CODE_OF_CONDUCT.md) y se adhiere al [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). Al participar, esperamos que como participante te guíes por ambos. Por favor, cualquier comportamiento inacceptable puede ser reportado a  cristian.leon@asuntosdelsur.org.
 
 ## MozSprint
 
