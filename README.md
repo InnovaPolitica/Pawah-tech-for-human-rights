@@ -48,7 +48,7 @@ Thanks for your interest in contributing to Pawah! There are many ways to contri
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to cristian.leon@asuntosdelsur.org.
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md) and the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold to them. Please report unacceptable behavior to cristian.leon@asuntosdelsur.org.
 
 ## MozSprint
 
